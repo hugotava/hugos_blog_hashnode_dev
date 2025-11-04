@@ -165,21 +165,21 @@ Here are some great free places to practice and learn:
 | Platform | Description | Link |
 | --- | --- | --- |
 | [**PHP.net**](http://PHP.net) | The official PHP documentation — perfect for reference and examples. | [https://www.php.net](https://www.php.net) |
-| [**W3Schools**](https://www.php.net) | [Beginner-friendly tutorials and exampl](https://www.php.net)es to practice PHP syntax. | [https://www.w3schools.com/php](https://www.w3schools.com/php) |
-| [**FreeCod**](https://www.php.net)[**eCamp**](https://www.w3schools.com/php) | [Offers free, project-based PH](https://www.php.net)[P and w](https://www.w3schools.com/php)eb development courses. | [https://www.freecodecamp.org](https://www.freecodecamp.org) |
-| [**The Odin Project**](https://www.w3schools.com/php) | [Open-source curriculum focused](https://www.php.net) on full-stack web development, incl[ud](https://www.freecodecamp.org)[ing PHP](https://www.w3schools.com/php)[.](https://www.php.net) | [https://www.theodinproject.com](https://www.theodinproject.com) |
-| [**Scrimba**](https://www.php.net) | [I](https://www.php.net)[n](https://www.w3schools.com/php)[teractive lessons w](https://www.php.net)[ith](https://www.theodinproject.com) code e[ditors and gui](https://scrimba.com)[ded practi](https://www.freecodecamp.org)[ce.](https://www.w3schools.com/php) | [https://scrimba.com](https://scrimba.com) |
-| [**Microsoft Lear**](https://www.php.net)[**n**](https://www.w3schools.com/php) | [Provides gui](https://www.w3schools.com/php)[ded learning paths for web dev](https://www.php.net)elopers[, in](https://scrimba.com)[cluding PHP basics.](https://www.freecodecamp.org) | [https://learn.microsoft.com/training](https://learn.microsoft.com/training) |
-| [**Curso em Vídeo (Gustavo Guanab**](https://www.php.net)[**ara)**](https://www.w3schools.com/php) | [A c](https://www.w3schools.com/php)[omplete and mod](https://scrimba.com)ern [PH](https://learn.microsoft.com/training)[P cours](https://www.theodinproject.com)[e in](https://www.freecodecamp.org) [Portuguese, w](https://www.w3schools.com/php)[ith practical examp](https://www.php.net)[les and exercises.](https://www.w3schools.com/php) | [W](https://www.w3schools.com/php)[atch on YouTube 🎓](https://www.php.net) |
+| [**W3Schools**](https://www.w3schools.com/php) | Beginner-friendly tutorials and examples to practice PHP syntax. | [https://www.w3schools.com/php](https://www.w3schools.com/php) |
+| [FreeCodeCamp](https://www.freecodecamp.org) | Offers free, project-based PHP and web development courses. | [https://www.freecodecamp.org](https://www.freecodecamp.org) |
+| [**The Odin Project**](https://www.theodinproject.com) | Open-source curriculum focused on full-stack web development, including PHP[.](https://www.php.net) | [https://www.theodinproject.com](https://www.theodinproject.com) |
+| [**Scrimba**](https://scrimba.com) | Interactive lessons with code editors and guided practice. | [https://scrimba.com](https://scrimba.com) |
+| [**Microsoft Lear**](https://www.php.net)[**n**](https://www.w3schools.com/php) | Provides guided learning paths for web developers, including PHP basics. | [https://learn.microsoft.com/training](https://learn.microsoft.com/training) |
+| [**Curso em Vídeo (Gustavo Guanabara)**](https://youtu.be/TfsO0BGvGn0?si=WeEDV61NXpDxL_b6) | A complete and modern PHP course in Portuguese, with practical examples and exercises. | [Watch on YouTube 🎓](https://youtu.be/TfsO0BGvGn0?si=WeEDV61NXpDxL_b6) |
 
 ---
 
 ## Conclusion 💡
 
-[PHP 8 shows that the lan](https://learn.microsoft.com/training)[g](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)uage [is far from “dead.”](https://scrimba.com)[  
-It’s faster, saf](https://learn.microsoft.com/training)[er](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)[, and more fun than ever — and still](https://learn.microsoft.com/training) powers a huge part of th[e web.  
-If you’re](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) starting you[r coding journey, learning modern PH](https://learn.microsoft.com/training)P can open door[s to web develop](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)ment, APIs, and even cloud applications.
+PHP 8 shows that the language is far from “dead.”  
+It’s faster, safer, and more fun than ever — and still powers a huge part of the web.  
+If you’re starting your coding journey, learning modern PHP can open doors to web development, APIs, and even cloud applications.
 
-So, grab your favorite editor, i[nstall PHP 8, an](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)d start experimenting! 🚀
+So, grab your favorite editor, install PHP 8, and start experimenting! 🚀
 
 ---
