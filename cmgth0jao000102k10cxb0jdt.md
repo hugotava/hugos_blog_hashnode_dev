@@ -17,27 +17,6 @@ tags: javascript, events, event-listeners, event-listener, mouseevent, javascrip
 
 JavaScript events are a fundamental part of creating interactive web pages. They allow developers to define how a webpage should respond to user actions like clicks, keyboard presses, and mouse movements. Understanding events is essential for any beginner looking to enhance their web development skills.
 
-## Table of Contents
-
-1. **What Are Events in JavaScript?**
-    
-2. **Types of JavaScript Events**
-    
-    * Mouse Events
-        
-    * Keyboard Events
-        
-    * Form Events
-        
-    * Window Events
-        
-3. **Listening to Events with Event Listeners**
-    
-4. **Practical Example: A Simple Interactive Form**
-    
-5. **Conclusion**
-    
-
 ---
 
 ## 1\. What Are Events in JavaScript?
